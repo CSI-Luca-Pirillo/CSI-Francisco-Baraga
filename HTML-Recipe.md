@@ -11,7 +11,7 @@
 
     <li> Cocoa Powder </li>
     <img
-         src="https://user-images.githubusercontent.com/93533015/144488129-dca29075-11ac-4fab-b410-096d71680197.jpg"
+         src="(https://user-images.githubusercontent.com/93533015/144515121-cd1d53ab-1dff-4e58-b609-3704bae67861.jpg)"
                             title="Cocoa"
                             width="20%"
                             height="20%"     />
@@ -19,8 +19,7 @@
  
 
     <li> Milk </li>
-    src="https://user-images.githubusercontent.com/93533015/144514872-a1b35c1f-1646-4808-b5fb-287c1b542ac8.jpg"
-
+    src="
        title="Milk"
        width="20%"
        height="20%"
