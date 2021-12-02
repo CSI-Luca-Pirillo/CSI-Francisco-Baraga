@@ -10,7 +10,7 @@
 <ul>
     <li> Cocoa Powder </li>
     <img
-         src="![thumbnail_IMG_5882](https://user-images.githubusercontent.com/93533015/144488129-dca29075-11ac-4fab-b410-096d71680197.jpg)"
+         src="https://user-images.githubusercontent.com/93533015/144488129-dca29075-11ac-4fab-b410-096d71680197.jpg"
                             title="Cocoa"
                             width="20%"
                             height="20%"     />
