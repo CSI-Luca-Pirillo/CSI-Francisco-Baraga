@@ -11,7 +11,7 @@
 
     <li> Cocoa Powder </li>
     <img
-         src="(https://user-images.githubusercontent.com/93533015/144515121-cd1d53ab-1dff-4e58-b609-3704bae67861.jpg)"
+         src="https://user-images.githubusercontent.com/93533015/144515121-cd1d53ab-1dff-4e58-b609-3704bae67861.jpg"
                             title="Cocoa"
                             width="20%"
                             height="20%"     />
