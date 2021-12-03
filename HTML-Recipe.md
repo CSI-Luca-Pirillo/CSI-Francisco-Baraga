@@ -8,26 +8,21 @@
 <h3> Ingredients: </h3>
 
 <ul>
-
     <li> Cocoa Powder </li>
-    <img
-         src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
-                           title="Cocoa"
-                            width="20%"
-                            height="20%"     />
-                            
- 
-
+    <img    src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
+            title="Cocoa"
+            width="20%"
+            height="20%"     />
     <li> Milk </li>
-    src="
-       title="Milk"
-       width="20%"
-       height="20%"
+    <img    src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
+            title="Cocoa"
+            width="20%"
+            height="20%"     />
     <li> Vanilla </li>
-    src=
-       title=
-       width=
-       height=
+    <img    src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
+            title="Cocoa"
+            width="20%"
+            height="20%"     />
     <li> Marshmellow </li>
     <li> Whip Cream </li>
     <li> Chocolate sprinkles </li>
