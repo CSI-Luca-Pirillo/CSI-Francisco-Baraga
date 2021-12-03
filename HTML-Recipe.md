@@ -1,5 +1,10 @@
 <h1> HTML Webpage Recipe </h1>
 <h2> Christmas Recipe: Hot Chocolate </h2>
+ <img    src= "https://user-images.githubusercontent.com/93533015/144613895-b46583d9-14a3-4750-a5eb-658b817d6404.jpg"
+"
+            title="Cocoa"
+            width="20%"
+            height="20%"     />
 
 
 
@@ -14,18 +19,27 @@
             width="20%"
             height="20%"     />
     <li> Milk </li>
-    <img    src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
+    <img    src= "https://user-images.githubusercontent.com/93533015/144612087-c24b2322-eae7-427d-886c-e0b2a08b441e.jpg"
             title="Cocoa"
             width="20%"
             height="20%"     />
     <li> Vanilla </li>
-    <img    src= "https://user-images.githubusercontent.com/93533015/144515408-21a32d06-521d-41eb-89db-7bcea40de9f4.jpg"
+    <img    src= "https://user-images.githubusercontent.com/93533015/144612547-5d68aac4-1927-4335-bc96-b0e5abc3d4eb.jpg"
+"
             title="Cocoa"
             width="20%"
             height="20%"     />
     <li> Marshmellow </li>
+          <img    src="https://user-images.githubusercontent.com/93533015/144613069-96b9b92a-ce78-4832-9b80-88f05fa8eaed.jpg"
+         title="Cocoa"
+          width="20%"
+          height="20%"     />      
     <li> Whip Cream </li>
-    <li> Chocolate sprinkles </li>
+                   <img   src="https://user-images.githubusercontent.com/93533015/144613359-b935df04-4cf1-4cbb-b49b-453ad6d11fa8.jpg"
+         title="Cocoa"
+          width="20%"
+          height="20%"     />   
+    
  </ul>
  
  
@@ -38,6 +52,5 @@
      <li> Once it is stired add a drop of vanilla to the hot chocolate. </li>
      <li> Put marshmellows on top of the hot chocolate. </li>
      <li> Add whip cream on the hot chocolate. </li>
-     <li> add chocolate sprinkles on top of the whip cream </li>
      <li> Finally enjoy the delicious drink. </li>
       
