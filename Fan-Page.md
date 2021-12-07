@@ -50,22 +50,24 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td><a   href="@floydmayweather">@floydmayweather"</a>/td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@FloydMayweather</td>
+        <td><a  href="@FloydMayweather">@FloydMayweather</a></td>
     </tr>
-    <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
-    </tr>
+    
    
     </tr>
 </table>
 
 
 <br><br>
+ <img    src="https://user-images.githubusercontent.com/93533015/145051191-5614a55f-03c8-47a8-8bff-5e473fa447cd.jpg"
+            title="Pestility"
+            width="50%"
+            height="50%" 
+            />
 
 <p>
     Made by: <u>Francisco Javier Baraga</u> on December 3, 2021
