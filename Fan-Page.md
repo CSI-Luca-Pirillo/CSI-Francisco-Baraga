@@ -14,7 +14,13 @@
 <br>
 
 <p>
-   Floyd Mayweather is professional athlete at boxing. Mayweather is at 50-0 UNDEFEATED throoghout his carrer. Floyd has shocked the world many times he has a totoal of 27 KO'S. He is very entertaining to watch and is very motivational.
+ Floyd Mayweather is professional athlete at boxing. Mayweather is at 50-0 UNDEFEATED throoghout his carrer. Floyd has shocked the world many times he has a totoal of 27 KO'S. He is very entertaining to watch and is very motivational.
+                  
+ Floyd Mayweather was born on 1977. His boxing carrer was through 1996 to 2015 although he fought again on 2021 against Logan Paul. Floyd has many nicknames, his most comon nickname is money. He is very well known for being great at defense and offense. He stands 5'8 feet tall weighing at 151 pounds. Mayweather was named fighter of the decade in 2010
+                  </p>
+           
+  Mayweather is one of the most lucrative pay-per-view attractions of all time. Throughout his carreer he has earned about $1.6 billion dollars.
+  Appart from boxing Mayweather owns a buisness in Las Vegas, Nevada calles the "Girl Collection". One of his most famous fights was against a very well mma fighter known as Connor Mc.Gregor.
 </p>
 
 <br>
@@ -33,6 +39,7 @@
 
 <table>
     <tr>
+    <tr>
         <th>Name</th>
         <td>Floyd</td>
     </tr>
@@ -50,12 +57,29 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td><a   href="@floydmayweather">@floydmayweather"</a>/td>
+        <td><a   href="@floydmayweather">@floydmayweather</a>/td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td><a  href="@FloydMayweather">@FloydMayweather</a></td>
+        <td><a  href="@FloydMayweather">@FloydMayweather</a>/td>
     </tr>
+    <tr>
+        <th>Total Fights</th>
+        <td>50</td>
+    </tr>
+    <tr>
+        <th>Total Wins</th>
+        <td>50</td>
+    </tr>
+     <tr>
+        <th>Wins by KO</th>
+        <td>27</td>
+    </tr>
+      <tr>
+        <th>Losses</th>
+        <td>0</td>
+    </tr>
+    
     
    
     </tr>
