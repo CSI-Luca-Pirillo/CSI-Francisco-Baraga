@@ -2,7 +2,6 @@
 
 <div align="center">
     <img    src="https://user-images.githubusercontent.com/93533015/144621111-e4d67019-1706-4b48-9744-5c31a132dcd4.jpg"
-"
             title="Floyd"
             width="20%"
             height="20%" 
