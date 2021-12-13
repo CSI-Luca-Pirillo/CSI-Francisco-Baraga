@@ -3,7 +3,7 @@
 <div align="center">
     <img    src="https://user-images.githubusercontent.com/93533015/144621111-e4d67019-1706-4b48-9744-5c31a132dcd4.jpg"
 "
-            title="Pestily"
+            title="Floyd"
             width="20%"
             height="20%" 
             />
@@ -27,7 +27,6 @@
 
 <div align="center">
     <img    src="https://user-images.githubusercontent.com/93533015/144622492-44846596-6b29-42fe-a918-07a934d23ada.jpg"
-"
             title="Pestility"
             width="50%"
             height="50%" 
@@ -38,7 +37,6 @@
 
 
 <table>
-    <tr>
     <tr>
         <th>Name</th>
         <td>Floyd</td>
@@ -57,11 +55,11 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td><a   href="@floydmayweather">@floydmayweather</a>/td>
+        <td><a   href="@floydmayweather">@floydmayweather</a></td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td><a  href="@FloydMayweather">@FloydMayweather</a>/td>
+        <td><a  href="@FloydMayweather">@FloydMayweather</a><cc/td>
     </tr>
     <tr>
         <th>Total Fights</th>
@@ -80,9 +78,6 @@
         <td>0</td>
     </tr>
     
-    
-   
-    </tr>
 </table>
 
 
