@@ -1,4 +1,14 @@
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Floyd Mayweather </b></h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
+</html>
+
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Floyd Mayweather Fan Page </b></h1>
 
 <div align="center">
     <img    src="https://user-images.githubusercontent.com/93533015/144621111-e4d67019-1706-4b48-9744-5c31a132dcd4.jpg"
@@ -90,3 +100,4 @@
 <p>
     Made by: <u>Francisco Javier Baraga</u> on December 3, 2021
 </p>
+</body>
