@@ -6,7 +6,7 @@
     <body>
         <h1>My First Heading</h1>
         <p>My first paragraph.</p>
-</html>
+
 
 <h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Floyd Mayweather Fan Page </b></h1>
 
